@@ -18,10 +18,10 @@
 
         windows_layer {  // WIN 1
             bindings = <
-&kp TAB       &kp Q  &kp W  &kp E      &kp R    &kp T        &kp Y    &kp U    &kp I      &kp O    &kp P     &kp BSPC
-&kp ESC       &kp A  &kp S  &kp D      &kp F    &kp G        &kp H    &kp J    &kp K      &kp L    &kp SEMI  &mt LCTRL SQT
-&kp LSHFT     &kp Z  &kp X  &kp C      &kp V    &kp B        &kp N    &kp M    &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
-                            &kp LCTRL  &kp SPACE  &kp SPACE    &kp RET  &kp SPACE  &kp LALT
+&kp 1       &kp 1  &kp 2  &kp 3      &kp R    &kp T        &kp Y    &kp U    &kp I      &kp O    &kp P     &kp BSPC
+&kp Q       &kp W  &kp E  &kp R      &kp F    &kp G        &kp H    &kp J    &kp K      &kp L    &kp SEMI  &mt LCTRL SQT
+&kp 3       &kp 5  &kp 6  &kp S      &kp V    &kp B        &kp N    &kp M    &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT
+                            &kp D  &kp F  &kp SPACE    &kp RET  &kp SPACE  &kp LALT
             >;
         };
 
